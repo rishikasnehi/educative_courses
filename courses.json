@@ -490,6 +490,16 @@
     "certification": "paid"
   },
   {
+    "id": 100,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Hands-on Vue.js: Build a fully functional SPA",
+    "link": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
     "id": 108,
     "platform": "educative",
     "free_course": "no",
