@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 108,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "C# Concurrency for Senior Engineering Interviews",
+    "link": "https://www.educative.io/courses/c-sharp-concurrency-for-senior-engineering-interviews",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
   }
 ]
