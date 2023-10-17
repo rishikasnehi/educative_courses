@@ -489,7 +489,17 @@
     "module_number": 8,
     "certification": "paid"
   },
-   {
+  {
+    "id": 107,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Mastering C# and .NET",
+    "link": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet",
+    "difficulty": "beginner",
+    "module_number": 18,
+    "certification": "paid"
+  },
+  {
     "id": 106,
     "platform": "educative",
     "free_course": "no",
