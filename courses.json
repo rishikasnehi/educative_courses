@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 109,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Learn to Code: C# for Absolute Beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-c-sharp-for-absolute-beginners",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
   }
 ]
